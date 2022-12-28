@@ -3,6 +3,7 @@
 
 
 Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on BUAA
 - 🌱 I’m currently learning SLAM
@@ -12,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
