@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun1f&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun1f&show_icons=true&theme=transparent&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1f&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 - 🔭 I’m currently working on collaborative visual SLAM, ROS and 3D Reconstruction
 - 🌱 I’m currently learning cartographer and deeplearning preparing for job interviews
