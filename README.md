@@ -1,8 +1,8 @@
 ### Hi there 👋  
-<center>
-    <img src = "https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif">
-</center>  
 
+![coding](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif)
+![running](https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man_run.png)  
+ 
 - 🔭 I’m currently working on collaborative visual SLAM, ROS and 3D Reconstruction
 - 🌱 I’m currently learning cartographer and deeplearning preparing for job interviews
 - 👯 I’m looking to collaborate on all kinds of interesting projects
