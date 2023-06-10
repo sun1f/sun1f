@@ -11,5 +11,5 @@
 - 🎥 I'm a suspense fan
 - ⚡ Fun fact: People are more creative in the shower  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun1f&show_icons=true&theme=transparent&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun1f&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1f&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
