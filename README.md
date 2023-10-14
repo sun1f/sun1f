@@ -26,8 +26,6 @@
 ![Static Badge](https://img.shields.io/badge/API-OpenGL-red?style=flat&logo=OpenGL&logoColor=white&labelColor=%235586A4&color=whitesmoke)
 ![Static Badge](https://img.shields.io/badge/Dev-Unity-red?style=flat&logo=Unity&logoColor=white&labelColor=%23000000&color=whitesmoke)
 ![Static Badge](https://img.shields.io/badge/DL-PyTorch-red?style=flat&logo=PyTorch&logoColor=white&labelColor=%23EE4C2C&color=whitesmoke)
-![Static Badge](https://img.shields.io/badge/Editor-VScode-red?style=flat&logo=Visual%20Studio%20Code&logoColor=white&labelColor=%23007ACC&color=whitesmoke)
-![Static Badge](https://img.shields.io/badge/Research-IEEE-red?style=flat&logo=IEEE&logoColor=white&labelColor=%2300629B&color=whitesmoke)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun1f&show_icons=true&theme=transparent)
