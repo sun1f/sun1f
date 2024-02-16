@@ -27,6 +27,8 @@
 ![Static Badge](https://img.shields.io/badge/GIS-Qgis-green?style=flat&logo=Qgis&logoColor=white&labelColor=%23589632&color=whitesmoke)
 ![Static Badge](https://img.shields.io/badge/IDE-JetBrains-green?style=flat&logo=JetBrains&logoColor=white&labelColor=%23000000&color=whitesmoke)
 ![Static Badge](https://img.shields.io/badge/IDE-Visual%20Studio-green?style=flat&logo=visualstudio&logoColor=white&labelColor=%235C2D91&color=whitesmoke)
+![Static Badge](https://img.shields.io/badge/Lib-GDAL-red?style=flat&logo=GDAL&logoColor=white&labelColor=%235CAE58&color=whitesmoke)
+![Static Badge](https://img.shields.io/badge/Lib-OpenCV-red?style=flat&logo=OpenCV&logoColor=white&labelColor=%235C3EE8&color=whitesmoke)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sun1f&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sun1f&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
