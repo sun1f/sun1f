@@ -2,7 +2,7 @@
 
 <div align=center><img src=https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif></div>  
 
-- 🕮 I’m currently working on Remote Sensing🛰, 3D Reconstruction🏰 and Software Development💻
+- 🕮 I’m currently working on Remote Sensing🛰, GIS🌍 and Software Development💻
 - 🤝 I’m looking to collaborate on all kinds of interesting projects💡
 - 💬 Ask me about delicious food🍕, rock music🎧, all types of movie🎥 and billiards🎱
 - 📫 How to reach me: please drop me a note📧 on github
